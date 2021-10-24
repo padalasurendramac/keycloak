@@ -1,0 +1,18 @@
+Setup keycloak in windows machine
+
+
+1.
+ download bin ( zip ) file and copy into c drive 
+
+step2:-  cd bin\
+
+start keycloak.
+
+standalone.bat
+
+---
+
+changning default port on keycloak
+
+
+go standalone.sh & standalone-ha.sh file  change port 8080 to 8081 or custom
